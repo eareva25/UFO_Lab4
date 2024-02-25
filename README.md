@@ -1,1 +1,1 @@
-https://github.com/eareva25/UFO_Lab4.git
+https://eareva25.github.io/UFO_Lab4/
